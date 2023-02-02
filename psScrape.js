@@ -1,4 +1,4 @@
-
+//TODO convert to commonjs
 import { mkdirSync, readdirSync, writeFileSync } from 'fs';
 import puppeteer from 'puppeteer';
 import { DOWNLOADS_PATH } from './constants.js';

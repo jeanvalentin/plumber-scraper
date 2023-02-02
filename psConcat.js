@@ -1,3 +1,4 @@
+//TODO convert to commonjs
 import { mkdirSync, readdirSync, readFileSync } from 'fs';
 import xlsx from 'xlsx';
 import { DOWNLOADS_PATH, OUTPUT_PATH } from './constants.js';
