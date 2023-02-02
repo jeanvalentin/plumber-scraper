@@ -1,2 +1,2 @@
-export const DOWNLOADS_PATH = 'downloads';
-export const OUTPUT_PATH = 'output';
+module.exports.DOWNLOADS_PATH = 'downloads';
+module.exports.OUTPUT_PATH = 'output';
